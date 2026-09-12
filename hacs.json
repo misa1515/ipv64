@@ -8,7 +8,7 @@
         "US"
     ],
     "render_readme": true,
-    "homeassistant": "2024.4.4",
-    "hacs": "1.34.0",
+    "homeassistant": "2026.9.2",
+    "hacs": "2.0.5",
     "filename": "ipv64.zip"
 }
